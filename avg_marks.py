@@ -1,6 +1,7 @@
 '''
 -------------------------------------------------------------------------------
 Name:		avg_marks.py
+
 Purpose: Prints report card that includes the four course marks as well as the average.
 
 Author:	Lui.G
